@@ -5,6 +5,7 @@
   "main": "dist/index.ts",
   "scripts": {
     "test": "npx jest",
+    "test:coverage": "npx jest --coverage",
     "lint": "npx eslint . src/ test/ --ext .js,.ts",
     "lint:fix": "npx eslint . src/ test/ --ext .js,.ts --fix"
   },
