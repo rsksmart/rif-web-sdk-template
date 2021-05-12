@@ -1,19 +1,52 @@
 <p align="middle">
   <img src="https://www.rifos.org/assets/img/logo.svg" alt="logo" height="100" >
 </p>
-<h3 align="middle"><code>@rsksmart/rif-scheduler-sdk</code></h3>
+<h3 align="middle"><code>@rsksmart/rif-web-sdk-template</code></h3>
 <p align="middle">
-  RIF Scheduler SDK
+  RIF Web SDK Template
 </p>
 <p align="middle">
-  <a href="https://github.com/rsksmart/rif-scheduler-sdk/actions/workflows/ci.yml" alt="ci">
-    <img src="https://github.com/rsksmart/rif-scheduler-sdk/actions/workflows/ci.yml/badge.svg" alt="ci" />
+  <a href="https://github.com/rsksmart/rif-web-sdk-template/actions/workflows/ci.yml" alt="ci">
+    <img src="https://github.com/rsksmart/rif-web-sdk-template/actions/workflows/ci.yml/badge.svg" alt="ci" />
   </a>
+  <a href="https://developers.rsk.co/rif/rif-web-sdk-template/">
+    <img src="https://img.shields.io/badge/-docs-brightgreen" alt="docs" />
+  </a>
+  <a href="https://lgtm.com/projects/g/rsksmart/rif-web-sdk-template/context:javascript">
+    <img src="https://img.shields.io/lgtm/grade/javascript/github/rsksmart/rif-web-sdk-template" />
+  </a>
+  <a href='https://coveralls.io/github/rsksmart/rif-web-sdk-template?branch=main'>
+    <img src='https://coveralls.io/repos/github/rsksmart/rif-web-sdk-template/badge.svg?branch=main' alt='Coverage Status' />
+  </a>
+  <!--
+    <a href="https://badge.fury.io/js/%40rsksmart%2Frif-web-sdk-template">
+      <img src="https://badge.fury.io/js/%40rsksmart%2Frif-web-sdk-template.svg" alt="npm" />
+    </a>
+  -->
 </p>
 
-```
-npm i @rsksmart/rif-scheduler-sdk
-```
+## Features
+
+- [Typescript](https://www.typescriptlang.org/)
+- [Jest](https://jestjs.io/)
+- [ESLint](https://eslint.org/)
+- [Webpack](https://webpack.js.org/)
+- [CI in Github Actions](https://github.com/features/actions)
+- [Coveralls](https://coveralls.io/)
+
+## Usage
+
+This repo is to be used as a tempalte. It has setup for the tools mentioned above, cinluding CircleCI flow
+
+1. Create a new repo using this one as a template
+
+  ![Update Shield URLs](../main/docs/use-template-button.jpg)
+
+2. Update the shields on the header to point your urls
+
+  ![Update Shield URLs](../main/docs/update-badge-urls.jpg)
+
+3. Start coding!
 
 ## Run for development
 
