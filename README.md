@@ -18,6 +18,9 @@
   <a href='https://coveralls.io/github/rsksmart/rif-web-sdk-template?branch=main'>
     <img src='https://coveralls.io/repos/github/rsksmart/rif-web-sdk-template/badge.svg?branch=main' alt='Coverage Status' />
   </a>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frsksmart%2Frif-web-sdk-template&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
   <!--
     <a href="https://badge.fury.io/js/%40rsksmart%2Frif-web-sdk-template">
       <img src="https://badge.fury.io/js/%40rsksmart%2Frif-web-sdk-template.svg" alt="npm" />
