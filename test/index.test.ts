@@ -1,8 +1,8 @@
-import { RIFScheduler } from '../src'
+import { Template } from '../src'
 
 describe('hello', () => {
   test('hello', () => {
-    const scheduler = new RIFScheduler()
-    expect(scheduler.hello()).toBe('hello')
+    const template = new Template()
+    expect(template.hello()).toBe('RIF Web SDK Template')
   })
 })

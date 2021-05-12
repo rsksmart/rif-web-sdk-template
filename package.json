@@ -1,9 +1,11 @@
 {
-  "name": "@rsksmart/rif-scheduler-sdk",
+  "name": "@rsksmart/rif-web-sdk-template",
   "version": "1.0.0",
-  "description": "RIF Scheduler SDK",
+  "description": "RIF Web SDK Template",
   "main": "dist/bundle.js",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "npx jest",
     "test:coverage": "npx jest --coverage",
@@ -13,19 +15,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rsksmart/rif-scheduler-sdk.git"
+    "url": "git+https://github.com/rsksmart/rif-web-sdk-template.git"
   },
   "keywords": [
     "rsk",
-    "rif",
-    "scheduler"
+    "rif"
   ],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rsksmart/rif-scheduler-sdk/issues"
+    "url": "https://github.com/rsksmart/rif-web-sdk-template/issues"
   },
-  "homepage": "https://github.com/rsksmart/rif-scheduler-sdk#readme",
+  "homepage": "https://github.com/rsksmart/rif-web-sdk-template#readme",
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "@typescript-eslint/eslint-plugin": "^4.23.0",

@@ -1,3 +1,3 @@
-export class RIFScheduler {
-  hello (): string { return 'hello' }
+export class Template {
+  hello (): string { return 'RIF Web SDK Template' }
 }
