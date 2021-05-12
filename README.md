@@ -40,11 +40,11 @@ This repo is to be used as a tempalte. It has setup for the tools mentioned abov
 
 1. Create a new repo using this one as a template
 
-  ![Update Shield URLs](../main/docs/use-template-button.jpg)
+  ![Update Shield URLs](../main/docs/use-template-button.jpeg)
 
 2. Update the shields on the header to point your urls
 
-  ![Update Shield URLs](../main/docs/update-badge-urls.jpg)
+  ![Update Shield URLs](../main/docs/update-badge-urls.jpeg)
 
 3. Start coding!
 
