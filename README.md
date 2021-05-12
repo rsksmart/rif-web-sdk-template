@@ -9,7 +9,7 @@
   <a href="https://github.com/rsksmart/rif-web-sdk-template/actions/workflows/ci.yml" alt="ci">
     <img src="https://github.com/rsksmart/rif-web-sdk-template/actions/workflows/ci.yml/badge.svg" alt="ci" />
   </a>
-  <a href="https://developers.rsk.co/rif/rif-web-sdk-template/">
+  <a href="https://developers.rsk.co/rif/templates/">
     <img src="https://img.shields.io/badge/-docs-brightgreen" alt="docs" />
   </a>
   <a href="https://lgtm.com/projects/g/rsksmart/rif-web-sdk-template/context:javascript">
