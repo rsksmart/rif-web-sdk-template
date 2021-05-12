@@ -1,3 +1,3 @@
 export class RIFScheduler {
-  hello = () => 'hello'
+  hello (): string { return 'hello' }
 }
