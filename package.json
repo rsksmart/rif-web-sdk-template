@@ -1,0 +1,24 @@
+{
+  "name": "@rsksmart/rif-scheduler-sdk",
+  "version": "1.0.0",
+  "description": "RIF Scheduler SDK",
+  "main": "dist/index.ts",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsksmart/rif-scheduler-sdk.git"
+  },
+  "keywords": [
+    "rsk",
+    "rif",
+    "scheduler"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsksmart/rif-scheduler-sdk/issues"
+  },
+  "homepage": "https://github.com/rsksmart/rif-scheduler-sdk#readme"
+}
