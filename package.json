@@ -2,7 +2,7 @@
   "name": "@rsksmart/rif-web-sdk-template",
   "version": "1.0.0",
   "description": "RIF Web SDK Template",
-  "main": "dist/bundle.js",
+  "main": "dist/index.js",
   "files": [
     "dist"
   ],
